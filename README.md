@@ -1,5 +1,5 @@
 ## Welcome to GitHub Page
-https://minetunisie.github.io/Carte-des-Concessions-/
+https://github.io/Carte-des-Concessions-/
 
 You can use the [editor on GitHub](https://github.com/RIAHI1992/Carte-des-Concessions-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
